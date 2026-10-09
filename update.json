@@ -1,0 +1,14 @@
+{
+    "versionCode":  11,
+    "versionName":  "1.0.0.261009",
+    "sizeKB":  109,
+    "sha256":  "0E1778DBCBB6845B189595BA300594BB0D0CE230BC9DED34C096E88B66DFDE8E",
+    "apkFile":  "xiaoke-phone-11.apk",
+    "note":  "小克更新到 1.0.0.261009",
+    "urls":  [
+                 "https://Bamboooa.github.io/jellypet/xiaoke-phone-11.apk",
+                 "https://cdn.jsdelivr.net/gh/Bamboooa/jellypet@main/xiaoke-phone-11.apk"
+             ],
+    "pubTime":  "2026-10-09 22:35:11",
+    "desktopVer":  "1.0.0"
+}
