@@ -1,14 +1,14 @@
 {
-    "versionCode":  18,
+    "versionCode":  19,
     "versionName":  "1.0.0.261010",
     "sizeKB":  117,
-    "sha256":  "DA1A0AB80BB5B591C2D567F8E764B8B364D30F1DD0EE0BFA64D64009A7B6CBF0",
-    "apkFile":  "xiaoke-phone-18.apk",
-    "note":  "修好了自动安装失败（装不上时会把包放进「下载」让你点）和检查更新滞后两个问题",
+    "sha256":  "5A378B5A6A04A4930945DD0354511D5BDD50F7944C5B8B357A11FC0310DA1AD9",
+    "apkFile":  "xiaoke-phone-19.apk",
+    "note":  "小克更新到 1.0.0.261010",
     "urls":  [
-                 "https://Bamboooa.github.io/jellypet/xiaoke-phone-18.apk",
-                 "https://cdn.jsdelivr.net/gh/Bamboooa/jellypet@main/xiaoke-phone-18.apk"
+                 "https://Bamboooa.github.io/jellypet/xiaoke-phone-19.apk",
+                 "https://cdn.jsdelivr.net/gh/Bamboooa/jellypet@main/xiaoke-phone-19.apk"
              ],
-    "pubTime":  "2026-10-10 09:45:33",
+    "pubTime":  "2026-10-10 11:41:50",
     "desktopVer":  "1.0.0"
 }
