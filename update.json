@@ -1,14 +1,14 @@
 {
-    "versionCode":  15,
+    "versionCode":  17,
     "versionName":  "1.0.0.261010",
     "sizeKB":  113,
-    "sha256":  "FE83B22C66A5C6F527B199CF473B3AD4292E3360620DE34FD169906B5FE4C1AF",
-    "apkFile":  "xiaoke-phone-15.apk",
+    "sha256":  "1A383D2130736451E3C7738F45214A0AA07EE47F2FD4CC1FB89F7E34EAEBBC3A",
+    "apkFile":  "xiaoke-phone-17.apk",
     "note":  "小克更新到 1.0.0.261010",
     "urls":  [
-                 "https://Bamboooa.github.io/jellypet/xiaoke-phone-15.apk",
-                 "https://cdn.jsdelivr.net/gh/Bamboooa/jellypet@main/xiaoke-phone-15.apk"
+                 "https://Bamboooa.github.io/jellypet/xiaoke-phone-17.apk",
+                 "https://cdn.jsdelivr.net/gh/Bamboooa/jellypet@main/xiaoke-phone-17.apk"
              ],
-    "pubTime":  "2026-10-10 08:50:50",
+    "pubTime":  "2026-10-10 09:25:51",
     "desktopVer":  "1.0.0"
 }
